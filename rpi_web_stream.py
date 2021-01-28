@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 #
 # Web streaming example
+# Modified from:
 # Source code from the official PiCamera package
 # http://picamera.readthedocs.io/en/latest/recipes2.html#web-streaming
 
